@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1639299665 source:d:\ - code projects -\square color section\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
+1639299665 source:d:\projects\square color section\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
+1639318177 source:c:\users\vladi\documents\coding projects\square color section\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<windows.h>
+	<time.h>
+
