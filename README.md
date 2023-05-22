@@ -1,5 +1,5 @@
 # Chess-Square-Color-Guess
-Windows console program. A chess-board coordinate is generated. Guess it's color by pressing 1 (black) or 2 (white).  
+Windows console program. A chess-board coordinate is generated. Guess its color by pressing 1 (black) or 2 (white).  
 You can set how many squares you want to practice (e.g. first 3x3 square, first 4x4 etcetera) if you're not ready for all 8x8 yet.
 
 I needed a quick something to practice square color memorization. They say it's a must to know squares by heart. 
