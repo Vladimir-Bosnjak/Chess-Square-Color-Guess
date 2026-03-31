@@ -7,5 +7,3 @@ Logically deducing the color is not allowed. It must be available from raw memor
 So here I made a quick console app in C to practice colors. Get the executable or compile the code (included) yourself. 
 Notice something like this already exists online but now you can choose how many files/ranks you want to practice. For example the first 3 or first 5 ranks+files only. 
 It will be obvious what to do. Coded in 15 minutes, so don't expect much - it works.
-
-Yes, you can program it far better than I do. Good for you. Well done.
